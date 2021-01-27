@@ -1,4 +1,4 @@
-# sentiment-analysis
+# Sentiment Analysis of IMDB Movie Reviews
 
 Dataset: https://keras.io/api/datasets/imdb/
 
